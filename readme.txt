@@ -27,4 +27,4 @@ RUN jenkins-plugin-cli --plugins "blueocean docker-workflow"
 
 For Password ==> docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
 
-************
+****************
